@@ -1,0 +1,1 @@
+Petar Ristoski's resume. CSS taken from Bootstrap: https://startbootstrap.com/themes/resume/
